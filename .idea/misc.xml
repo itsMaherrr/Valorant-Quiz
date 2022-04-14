@@ -3,12 +3,39 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable-xhdpi/button_shape.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable-xhdpi/correct_answer_button.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/agent_background.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/app_background.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/button_shape.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/correct_answer_button.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/rounded_corners.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/text_background.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/toolbar_shape.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/drawable/wrong_answer_button.xml" value="0.2595" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout-land/activity_album.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout-land/activity_picture.xml" value="0.2" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_album.xml" value="0.2173719376391982" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_guess_it.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_main.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_memory_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_memroy_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/activity_picture.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/fragment_guess_it_end_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/fragment_guess_it_game.xml" value="0.264" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/fragment_guess_it_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/fragment_main_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/Game of Pictures/app/src/main/res/layout/my_action_bar.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.264" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/drawable/rounded_corners.xml" value="0.2265" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout-land/activity_album.xml" value="0.29683698296836986" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout/activity2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout/activity_album.xml" value="0.2" />
         <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Asus G15/AndroidStudioProjects/app/src/main/res/layout/activity_picture.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

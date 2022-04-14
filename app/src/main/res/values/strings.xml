@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MEBIROUK Maher | DJELLIT Adem</string>
+    <string name="app_name">Homework 02</string>
+    <string name="team_names">MEBIROUK Maher | DJELLIT Adem</string>
+    <string name="activity1Name">Album</string>
+    <string name="activity2Name">Guess it!</string>
+    <string name="activity3Name">Memory game</string>
+    <string name="next">Next &gt;</string>
+    <string name="previous">&lt; Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
